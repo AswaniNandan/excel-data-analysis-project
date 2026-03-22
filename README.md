@@ -1,10 +1,18 @@
 # Fleet Equipment Data Analysis (Excel Project)
 
-Project Overview:-
+🔹 Project Overview
+
+This project focuses on cleaning fleet equipment inventory data using Microsoft Excel.
+
+🔹 Dataset
+
+The dataset contains information about equipment across different departments, including equipment class and count.
+
+Project Overview
 This project focuses on cleaning fleet equipment inventory data using Microsoft Excel.
 
 
-Dataset:-
+Dataset
 The dataset contains information about equipment across different departments, including equipment class and count.
 
 
