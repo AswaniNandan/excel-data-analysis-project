@@ -1,7 +1,7 @@
 # Fleet Equipment Data Analysis (Excel Project)
 
 
-- Project Overview
+- Project Overview 
 This project focuses on cleaning fleet equipment inventory data using Microsoft Excel.
 
 
@@ -32,12 +32,12 @@ The dataset contains information about equipment across different departments, i
 
 
 - Files in this Repository:-
- - raw_fleet_equipment_data.csv → Original raw dataset
- - cleaned_fleet_equipment_data.xlsx → Cleaned data
+     - raw_fleet_equipment_data.csv → Original raw dataset
+     - cleaned_fleet_equipment_data.xlsx → Cleaned data
 
 
 - Tools Used:- 
- - Microsoft Excel
+     - Microsoft Excel
 
 
 
