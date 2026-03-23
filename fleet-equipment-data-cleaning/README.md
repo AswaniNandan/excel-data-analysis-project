@@ -29,8 +29,9 @@ The dataset contains information about equipment across different departments, i
 
   - Bold Letters:- Formatted all column headings with bold letters.
 
-### 🔹 Before Cleaning
-![Raw Data](raw_data.png)
+###  Before Cleaning
+![Raw Data](raw_fleet_equipment_data.png)
+
 
 
 - Files in this Repository:-
