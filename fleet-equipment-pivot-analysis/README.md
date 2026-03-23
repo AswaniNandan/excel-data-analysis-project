@@ -5,9 +5,9 @@ Project Overview
 
 Dataset
 The dataset used in this project is the cleaned fleet equipment data, which includes:
-   - Department
-   - Equipment Class
-   - Equipment Count
+    - Department
+    - Equipment Class
+    - Equipment Count
  
 
 - Data Analysing Steps
