@@ -10,8 +10,7 @@ The dataset used in this project is the cleaned fleet equipment data, which incl
    - Equipment Count
  
 
-
-- Data Cleaning Steps
+- Data Analysing Steps
     - Formated the data as a table.
     - Created a Pivot Table as Pivot Table 1 that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that the         pivot table displays the SUM, AVERAGE, MIN, MAX and COUNT of equipment count by each Department.
     - Made two more pivot tables exactly Pivot Table 2 and Pivot Table 3.
@@ -29,7 +28,7 @@ The dataset used in this project is the cleaned fleet equipment data, which incl
    - Microsoft Excel
    - Pivot Tables
 
-Key Insights
-  - Departments with the highest equipment count were identified (The highest used equipment is Transit Bus for the Tranportation  ie 379).
-  - Certain equipment classes contribute more to overall inventory
-  - Equipment distribution varies across departments that equipment usage is different for different departments. 
+- Key Insights
+   - Departments with the highest equipment count were identified (The highest used equipment is Transit Bus for the Tranportation  ie 379).
+   - Certain equipment classes contribute more to overall inventory
+   - Equipment distribution varies across departments that equipment usage is different for different departments. 
