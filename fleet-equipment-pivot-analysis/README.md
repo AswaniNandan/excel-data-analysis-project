@@ -22,7 +22,7 @@ The dataset used in this project is the cleaned fleet equipment data, which incl
     - Identification of departments with highest and lowest equipment count.
  
 ###  Before Cleaning
-![Raw Data](raw_data.png)
+![Raw Data](raw_fleet_equipment_pivot_analysis.png)
 
 ###  Pivot Table Analysis
 ![Pivot Table](fleet_equipment_pivot_analysis1.png)
