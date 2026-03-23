@@ -33,6 +33,11 @@ The dataset contains information about equipment across different departments, i
 ![Raw Data](raw_fleet_equipment_data.png)
 
 
+###  After Cleaning
+![Cleaned Data](cleaned_fleet_equipment_data.png)
+
+
+
 
 - Files in this Repository:-
      - raw_fleet_equipment_data.csv → Original raw dataset
