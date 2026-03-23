@@ -1,13 +1,13 @@
 # Fleet Equipment Pivot Analysis
 
 Project Overview
-  This project focuses on analyzing fleet equipment inventory data using Pivot Tables in Microsoft Excel.
+This project focuses on analyzing fleet equipment inventory data using Pivot Tables in Microsoft Excel.
 
 Dataset
 The dataset used in this project is the cleaned fleet equipment data, which includes:
-    - Department
-    - Equipment Class
-    - Equipment Count
+  - Department
+  - Equipment Class
+  - Equipment Count
 
 
 
