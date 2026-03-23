@@ -13,13 +13,29 @@ The dataset used in this project is the cleaned fleet equipment data, which incl
 
 - Data Analysing Steps
     - Formated the data as a table.
-    - Created a Pivot Table as Pivot Table 1 that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that the         pivot table displays the SUM, AVERAGE, MIN, MAX and COUNT of equipment count by each Department.
+    - Created a Pivot Table as Pivot Table 1 that displays the Department field in the Rows section, and the Equipment Count in the Values section, so that        the pivot table displays the SUM, AVERAGE, MIN, MAX and COUNT of equipment count by each Department.
     - Made two more pivot tables exactly Pivot Table 2 and Pivot Table 3.
-    - In Pivot Table 2 added the Equipment Class field below the Department field so that the different vehicle types appear under each department with their           respective counts so that we can analyse the count of each vehicle used for each department, then the total number of vehicle used by each department and         then finally displays the total vehicle used by whole departments.
-    - In Pivot Table 3, added the Equipment Class field above the Department field so that the different vehicle types appear first, with the different                 departments listed underneath each vehicle type with their respective counts.
+    - In Pivot Table 2 added the Equipment Class field below the Department field so that the different vehicle types appear under each department with            their respective counts so that we can analyse the count of each vehicle used for each department, then the total number of vehicle used by each             department and then finally displays the total vehicle used by whole departments.
+    - In Pivot Table 3, added the Equipment Class field above the Department field so that the different vehicle types appear first, with the different            departments listed underneath each vehicle type with their respective counts.
     - Equipment count by department
-    - Equipment distribution by equipment class
-    - Identification of departments with highest and lowest equipment count
+    - Equipment distribution by equipment class.
+    - Identification of departments with highest and lowest equipment count.
+ 
+###  Before Cleaning
+![Raw Data](raw_data.png)
+
+###  Pivot Table Analysis
+![Pivot Table](fleet_equipment_pivot_analysis1.png)
+
+###  Pivot Table 1
+![Pivot Table](fleet_equipment_pivot_analysis_table1.png)
+
+###  Pivot Table 2
+![Pivot Table](fleet_equipment_pivot_analysis_table2.png)
+
+###  Pivot Table 3
+![Pivot Table](fleet_equipment_pivot_analysis_table3.png)
+
 
 - Pivot Tables Created
    - Department vs Equipment Count
